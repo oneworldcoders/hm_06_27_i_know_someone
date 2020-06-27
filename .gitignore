@@ -49,6 +49,9 @@ buck-out
 #expo
 .expo/
 
+#env
+*.env
+
 # Android
 .idea
 .gradle
