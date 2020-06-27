@@ -14,6 +14,7 @@ import {
   View,
   Text,
   StatusBar,
+  Button
 } from 'react-native';
 
 import {
@@ -41,15 +42,15 @@ const App: () => React$Node = () => {
           <View style={styles.body}>
             <View style={styles.sectionContainer}>
               <Text style={styles.sectionDescription}>
-               Hello World Text here
-              </Text>
-            </View>
-            <View style={styles.sectionContainer}>
-              <Text style={styles.sectionDescription}>
                 I know Someone
               </Text>
             </View>
-
+            <View style={styles.sectionContainer}>
+            </View>
+            <Button
+              title="login"
+              color="#841534"
+            />
           </View>
         </ScrollView>
       </SafeAreaView>

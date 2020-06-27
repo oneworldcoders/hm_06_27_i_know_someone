@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "173855589957",
+    "firebase_url": "https://i-kno-someone.firebaseio.com",
+    "project_id": "i-kno-someone",
+    "storage_bucket": "i-kno-someone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173855589957:android:d5a5035a6f791d477e452c",
+        "android_client_info": {
+          "package_name": "com.reactnativefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173855589957-qfbfug0vn9mtrslgduvke4usu22or6sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9qVX9g8P9u09-5GfK2tCEzrsZiDqSJC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173855589957-qfbfug0vn9mtrslgduvke4usu22or6sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
